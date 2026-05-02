@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goutham Reddy</h1>
+<h1 align="center">Hi 👋, I'm C S Goutham Reddy</h1>
 
 <p align="center">
   🎓 B.Tech CSE (Data Science) Student <br/>

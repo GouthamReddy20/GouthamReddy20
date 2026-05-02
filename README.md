@@ -36,11 +36,6 @@ MySQL • PostgreSQL • MongoDB
 
 Git • GitHub • Postman • Swagger • VS Code
 
-![Java](https://img.shields.io/badge/Java-orange)
-![React](https://img.shields.io/badge/React-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-
 ---
 
 ## 🚀 Projects

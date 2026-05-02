@@ -78,15 +78,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GouthamReddy20&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GouthamReddy20&show_icons=true&theme=transparent&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-Email: [csgoutham775@gmail.com](mailto:csgoutham775@gmail.com)
-Portfolio: https://gouthamreddy-portfolio.vercel.app/
-LinkedIn: https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343
+## 📫 Contact  
+
+- 📧 Email: csgoutham775@gmail.com  
+- 🌐 Portfolio: https://gouthamreddy-portfolio.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343  
 
 ---

@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Goutham Reddy</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Building Scalable Web Applications</h3>
 
 <p align="center">
-  <a href="https://gouthamreddy-portfolio.vercel.app/" target="_blank">
-    🌐 Portfolio
-  </a> • 
-  <a href="https://github.com/GouthamReddy20" target="_blank">
-    💻 GitHub
-  </a> • 
-  <a href="https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343" target="_blank">
-    💼 LinkedIn
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <a href="https://gouthamreddy-portfolio.vercel.app/">🌐 Portfolio</a> • 
+  <a href="https://github.com/GouthamReddy20">💻 GitHub</a> • 
+  <a href="https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343">💼 LinkedIn</a>
 </p>
 
 ---
@@ -20,50 +17,43 @@
 * Passionate Full Stack Developer with strong backend focus
 * Experience building real-world applications with REST APIs
 * Strong foundation in Java, OOP, and Data Structures & Algorithms
-* Interested in building scalable and enterprise-level systems
+* Interested in scalable and enterprise-level systems
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,spring,mysql,postgres,mongodb,git,github,postman" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-* 🎬 **Movie Review Platform**
-  Full-stack app with authentication, reviews, ratings, and TMDB API integration
+<p align="center">
 
-* ♻️ **Zero Waste Food Rescue Platform**
-  Scalable platform for waste tracking and donation management
+<a href="https://github.com/GouthamReddy20/movie-review-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouthamReddy20&repo=movie-review-platform" />
+</a>
 
-* 🧠 **Movie Recommendation System**
-  ML-based recommendation system using Python
+<a href="https://github.com/GouthamReddy20/zerowaste-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouthamReddy20&repo=zerowaste-platform" />
+</a>
 
-* 🏏 **CricFantasy Database (SQL)**
-  Designed optimized database schema for fantasy cricket
+<a href="https://github.com/GouthamReddy20/airbnb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouthamReddy20&repo=airbnb" />
+</a>
 
-* 🏡 **Airbnb Clone (MERN)**
-  Full-stack rental platform with bookings and listings
+</p>
 
-* 🚀 **Neurofleet.ai (TypeScript/Firebase)**
-  Smart traffic and bus booking system with authentication
+---
+
+## 🚀 Other Projects
+
+* 🧠 Movie Recommendation System (ML & Python)
+* 🏏 CricFantasy Database (SQL)
+* 🚀 Neurofleet.ai (TypeScript/Firebase)
 
 ---
 
@@ -71,6 +61,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GouthamReddy20&show_icons=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GouthamReddy20" />
 </p>
 
 ---

@@ -1,14 +1,12 @@
-# 👋 Hi, I'm Goutham Reddy
-
-💻 Full Stack Developer | B.Tech CSE (Data Science)
-🚀 Building scalable web applications and backend systems
+<h1 align="center">Hi 👋, I'm Goutham Reddy</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Building Scalable Web Applications</h3>
 
 ---
 
 ## 🧠 About Me
 
-* Passionate Full Stack Developer with strong backend focus
-* Experience building real-world applications with REST APIs
+* Passionate **Full Stack Developer** with strong backend focus
+* Experience building **real-world applications with REST APIs**
 * Strong foundation in **Java, OOP, and Data Structures & Algorithms**
 * Interested in building **scalable and enterprise-level systems**
 
@@ -18,23 +16,33 @@
 
 ### 💻 Languages
 
-Java • Python • JavaScript • TypeScript
+<p>
+Java • Python • JavaScript • TypeScript  
+</p>
 
 ### 🎨 Frontend
 
-HTML • CSS • React.js
+<p>
+HTML • CSS • React.js  
+</p>
 
 ### ⚙️ Backend
 
-Node.js • Express.js • Spring Boot • REST APIs
+<p>
+Node.js • Express.js • Spring Boot • REST APIs  
+</p>
 
 ### 🗄️ Databases
 
-MySQL • PostgreSQL • MongoDB
+<p>
+MySQL • PostgreSQL • MongoDB  
+</p>
 
 ### 🧰 Tools
 
-Git • GitHub • Postman • Swagger • VS Code
+<p>
+Git • GitHub • Postman • Swagger • VS Code  
+</p>
 
 ---
 
@@ -68,13 +76,15 @@ Developed a smart traffic system and bus booking management with authentication.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GouthamReddy20\&show_icons=true\&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GouthamReddy20&show_icons=true&theme=default" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn:https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343
+* 💼 LinkedIn: https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343
 * 💻 GitHub: https://github.com/GouthamReddy20
 * 📧 Email: [csgoutham775@gmail.com](mailto:csgoutham775@gmail.com)
 

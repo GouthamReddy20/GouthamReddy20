@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <p align="center">
 
@@ -80,10 +80,9 @@
 
 ## 📫 Contact
 
-<p align="center">
-  📧 <a href="mailto:csgoutham775@gmail.com">Email</a> •
-  🌐 <a href="https://gouthamreddy-portfolio.vercel.app/">Portfolio</a> •
-  💼 <a href="https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343">LinkedIn</a>
-</p>
+  📧 "mailto:csgoutham775@gmail.com"
+  🌐 "https://gouthamreddy-portfolio.vercel.app/
+  💼 "https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343"
+
 
 ---

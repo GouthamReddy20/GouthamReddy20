@@ -60,23 +60,9 @@ Designed normalized database schema for fantasy cricket with optimized queries.
 
 Developed a complete rental platform with authentication, bookings, and listings.
 
-### 🚀 Neurofleet.ai
+### 🚀 Neurofleet.ai (TypeScript/Firebase)
 
-Worked on AI-based project using TypeScript and modern web technologies.
-
----
-
-## 💼 Experience
-
-### 🔹 Full Stack Developer Intern – Smarted Innovations
-
-* Built scalable applications using React, Node.js, MongoDB
-* Designed REST APIs and improved performance
-
-### 🔹 Java Developer Intern – CodeAlpha
-
-* Built Java-based applications using OOP concepts
-* Developed multiple real-world systems
+Developed a smart traffic system and bus booking management with authentication.
 
 ---
 
@@ -88,7 +74,7 @@ Worked on AI-based project using TypeScript and modern web technologies.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
+* 💼 LinkedIn:https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343
 * 💻 GitHub: https://github.com/GouthamReddy20
 * 📧 Email: [csgoutham775@gmail.com](mailto:csgoutham775@gmail.com)
 

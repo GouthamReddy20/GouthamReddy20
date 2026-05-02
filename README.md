@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,spring,mysql,postgres,mongodb,git,github,postman" />
@@ -29,6 +29,14 @@
 <img src="https://img.shields.io/badge/TypeScript-blue?style=flat"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat"/>
+<img src="https://img.shields.io/badge/Html-orange?style=flat"/>
+<img src="https://img.shields.io/badge/Css/Tailwind Css-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Postgre SQL-yellow?style=flat"/>
+<img src="https://img.shields.io/badge/MongoDB-green?style=flat"/>
+<img src="https://img.shields.io/badge/My SQL-yellow?style=flat"/>
+<img src="https://img.shields.io/badge/Express.js-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Rest APIs-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Spring Boot-green?style=flat"/>
 </p>
 
 ---
@@ -82,8 +90,6 @@
 </p>
 
 ---
-
-## 📫 Contact
 
 ## 📫 Contact  
 

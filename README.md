@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**GouthamReddy20/GouthamReddy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Goutham Reddy
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
+🚀 Building scalable web applications using modern technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* Passionate about developing full-stack applications
+* Strong in JavaScript, React, and backend development
+* Built real-world projects with authentication, APIs, and deployment
+* Currently improving system design and problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Node.js, Express
+* **Database:** MySQL / Supabase
+* **Tools:** Git, GitHub, Vercel, Render
+
+---
+
+## 🚀 Projects
+
+* 🎬 Movie Review Platform
+* ♻️ Zero Waste Platform
+* 💼 Personal Portfolio
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GouthamReddy20\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/GouthamReddy20

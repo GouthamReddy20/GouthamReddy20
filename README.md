@@ -1,72 +1,77 @@
 <h1 align="center">Hi 👋, I'm Goutham Reddy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Applications" />
-</p>
-
-<p align="center">
-  🌐 <a href="https://gouthamreddy-portfolio.vercel.app/">Portfolio</a> • 
-  💻 <a href="https://github.com/GouthamReddy20">GitHub</a> • 
-  💼 <a href="https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343">LinkedIn</a>
+  🎓 B.Tech CSE (Data Science) Student <br/>
+  💻 Aspiring Full Stack Developer
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* Passionate Full Stack Developer with strong backend focus
-* Experience building real-world applications with REST APIs
-* Strong foundation in Java, OOP, and Data Structures & Algorithms
+* Passionate about building full-stack web applications
+* Strong in JavaScript, React, and backend development
+* Built real-world projects using REST APIs and databases
 * Interested in scalable and enterprise-level systems
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,spring,mysql,postgres,mongodb,git,github,postman" />
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Java-orange?style=flat"/>
 <img src="https://img.shields.io/badge/Python-blue?style=flat"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat"/>
 <img src="https://img.shields.io/badge/TypeScript-blue?style=flat"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat"/>
-<br/>
-<img src="https://img.shields.io/badge/Express-grey?style=flat"/>
-<img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=flat"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=flat"/>
-<img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat"/>
-<img src="https://img.shields.io/badge/MongoDB-green?style=flat"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-black?style=flat"/>
-<img src="https://img.shields.io/badge/Postman-orange?style=flat"/>
-<img src="https://img.shields.io/badge/Swagger-green?style=flat"/>
-
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<p align="center">
+### 🎬 Movie Review Platform
 
-<a href="https://github.com/GouthamReddy20/movie-review-platform-supabase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouthamReddy20&repo=movie-review-platform-supabase" />
-</a>
-
-<a href="https://github.com/GouthamReddy20/zerowaste-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GouthamReddy20&repo=zerowaste-platform" />
-</a>
-
-</p>
+* Full-stack application with authentication, reviews, and TMDB API
+* Tech: HTML, CSS, JavaScript, Node.js, PostgreSQL
+* 🔗 https://github.com/GouthamReddy20/movie-review-platform-supabase
 
 ---
 
-## 🚀 Other Projects
+### ♻️ Zero Waste Platform
 
-* 🧠 Movie Recommendation System (ML & Python)
-* 🏏 CricFantasy Database (SQL)
-* 🚀 Neurofleet.ai (TypeScript/Firebase)
+* Waste tracking and donation management system
+* Tech: HTML, CSS, JavaScript, Node.js, PostgreSQL
+* 🔗 https://github.com/GouthamReddy20/zerowaste-platform
+
+---
+
+### 🚀 Neurofleet.ai
+
+* Smart traffic and bus booking system
+* Tech: TypeScript, Firebase
+* 🔗 https://github.com/GouthamReddy20/neurofleet.ai
+
+---
+
+### 🧠 Movie Recommendation System
+
+* ML-based recommendation engine
+* Tech: Python
+* 🔗 https://github.com/GouthamReddy20
+
+---
+
+### 🏏 CricFantasy Database
+
+* Optimized SQL database design
+* Tech: SQL
+* 🔗 https://github.com/GouthamReddy20
 
 ---
 
@@ -80,9 +85,8 @@
 
 ## 📫 Contact
 
-  📧 "mailto:csgoutham775@gmail.com"
-  🌐 "https://gouthamreddy-portfolio.vercel.app/
-  💼 "https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343"
-
+Email: [csgoutham775@gmail.com](mailto:csgoutham775@gmail.com)
+Portfolio: https://gouthamreddy-portfolio.vercel.app/
+LinkedIn: https://www.linkedin.com/in/c-s-goutham-reddy-ab8800343
 
 ---

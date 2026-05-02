@@ -22,7 +22,10 @@
 * **Backend:** Node.js, Express
 * **Database:** MySQL / Supabase
 * **Tools:** Git, GitHub, Vercel, Render
-
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
 ---
 
 ## 🚀 Projects

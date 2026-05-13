@@ -9,10 +9,13 @@
 
 ## 🧠 About Me
 
-* Passionate about building full-stack web applications
-* Strong in JavaScript, React, and backend development
-* Built real-world projects using REST APIs and databases
-* Interested in scalable and enterprise-level systems
+• Full Stack Developer experienced in building scalable web applications using React.js, Node.js, PostgreSQL, and AWS
+
+• Strong in backend development, REST API design, authentication systems, and database integration
+
+• Built and deployed real-world full-stack applications with focus on scalability, performance, and user experience
+
+• Interested in cloud technologies, scalable architectures, and production-ready software systems
 
 ---
 

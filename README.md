@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 B.Tech CSE (Data Science) Student <br/>
-  💻 Aspiring Full Stack Developer
+  💻 Full Stack Developer | React.js • Node.js • PostgreSQL • AWS
 </p>
 
 ---
